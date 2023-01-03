@@ -15,9 +15,11 @@
 Purpose for this tutorial is to show in a visual way how a Fourier transform works and can be applied on a real use-case.
 
 ![Fourier transform combining sinus waves][ft_combinedWaves]
+
 Source : https://en.wikipedia.org/wiki/Fourier_transform
 
 ![Fourier transform time shifted][ft_timeShifted]
+
 Source : https://en.wikipedia.org/wiki/Fourier_transform
 
 ## Pre-requisite
