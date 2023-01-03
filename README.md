@@ -49,7 +49,7 @@ Email : hello@martinkarlsson.io \
 Webpage : [www.martinkarlsson.io](https://www.martinkarlsson.io)
 
 
-Project Link: [github.com/martinkarlssonio/big-data-solution](https://github.com/martinkarlssonio/big-data-solution)
+Project Link: [github.com/martinkarlssonio/fourier-transform-python](https://github.com/martinkarlssonio/fourier-transform-python)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
