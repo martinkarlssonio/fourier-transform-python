@@ -16,11 +16,8 @@ Purpose for this tutorial is to show in a visual way how a Fourier transform wor
 
 ![Fourier transform combining sinus waves][ft_combinedWaves]
 
-Source : https://en.wikipedia.org/wiki/Fourier_transform
-
 ![Fourier transform time shifted][ft_timeShifted]
 
-Source : https://en.wikipedia.org/wiki/Fourier_transform
 
 ## Pre-requisite
 - Only confirmed working on Linux/Windows (Apple Silicon might have issues).
