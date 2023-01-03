@@ -14,9 +14,7 @@
 
 Purpose for this tutorial is to show in a visual way how a Fourier transform works and can be applied on a real use-case.
 
-![Fourier transform combining sinus waves][ft_combinedWaves]
-
-![Fourier transform time shifted][ft_timeShifted]
+![Combined sinus waves, Discrete Fourier transform ][combSinRM]
 
 
 ## Pre-requisite
@@ -57,5 +55,4 @@ Project Link: [github.com/martinkarlssonio/big-data-solution](https://github.com
 <!-- MARKDOWN LINKS & IMAGES -->
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/martin-karlsson
-[ft_timeShifted]: ft_timeShifted.gif
-[ft_combinedWaves]: ft_combinedWaves.gif
+[combSinRM]: combSinRM.gif
