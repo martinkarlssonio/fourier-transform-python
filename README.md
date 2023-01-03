@@ -14,7 +14,7 @@
 
 Purpose for this tutorial is to show in a visual way how a Fourier transform works and can be applied on a real use-case.
 
-![Combined sinus waves, Discrete Fourier transform ][combSinRM]
+![Combined sine waves, Discrete Fourier transform ][combSinRM]
 
 
 ## Pre-requisite
